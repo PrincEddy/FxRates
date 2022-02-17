@@ -1,9 +1,11 @@
 # fxrates
 
+A new Flutter project.
+
 ## run the command below in the root of this project to generate some important files
 flutter pub run build_runner watch --delete-conflicting-outputs
 
-A new Flutter project.
+
 
 ## Getting Started
 
